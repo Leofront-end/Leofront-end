@@ -2,7 +2,7 @@
 Estou estudando e a busca do primeiro estagio
 
 
-## 🌐Redes Sociais:
+# 🌐Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leo_front.end) 
 
 # 💻 Tech Stack:
