@@ -1,5 +1,5 @@
 # 💫Sobre Mim:
-Estou estudando e a busca do primeiro estagio
+Estou cursando analise e desenvolvimento de sistema (2º semestre) e a busca do primeiro estagio, semprei gostei de arte e busco sempre melhorar
 
 
 # 🌐Redes Sociais:
