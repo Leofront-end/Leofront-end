@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Estou cursando Análise e Desenvolvimento de Sistema (2º semestre) e a busca do primeiro estágio, semprei gostei de arte e busco sempre melhorar
+Estou cursando Análise e Desenvolvimento de Sistema (3º semestre) e a busca do primeiro estágio, semprei gostei de arte e busco sempre melhorar
 
 
 # 🌐 Redes Sociais:
